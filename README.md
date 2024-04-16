@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhaviK06
+- 👋 Hi, I’m Bhavi Kataria
 - 👀 I’m interested in technology, fiction writing, and using tech for societal betterment.
 - 🌱 I’m currently learning javascript, html and css.
 - 📫 How to reach me- Drop me a message at katariabhavi2@gmail.com or connect with me on LinkedIn: www.linkedin.com/in/bhavi-kataria
