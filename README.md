@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Bhavi Kataria
-- 👀 I’m interested in technology, fiction writing, and using tech for societal betterment.
-- 🌱 I’m currently learning javascript, html and css.
-- 📫 How to reach me- Drop me a message at katariabhavi2@gmail.com or connect with me on LinkedIn: www.linkedin.com/in/bhavi-kataria
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm fascinated by the intersection of technology and storytelling, constantly seeking new ways to blend the two for innovative projects!
+Hi, I’m Bhavi! I’m a regular human who writes code, crafts stories — and occasionally watches both crash halfway through (wiping the tears). Despite that, my passion for tech never wavers. I’m into front-end development, mobile apps, cybersecurity, and lately, exploring the world of gaming.
 
-<!---
-BhaviK06/BhaviK06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’ve built projects with React and Expo, participated in Junction Hackathon, and won AI Solutions Day Hackathon, proving that a little creativity and persistence go a long way.
+
+I believe tech, when mixed with the right ingredients, can feel like a touch of fairytale magic ✨. Let’s build something magical together!
